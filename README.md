@@ -54,5 +54,7 @@ If not → marked **NO**
 ## 📥 Setup
 
 **git clone https://github.com/aBadRoy/Python-based-Reflected-XSS-scanner**
+
 **cd Python-based-Reflected-XSS-scanner**
+
 **pip install -r requirements.txt**
