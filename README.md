@@ -1,4 +1,4 @@
-# Reflected XSS Scanner (VipraTech Labs Assignment)
+# Reflected XSS Scanner
 
 This repository contains a Python-based reflected XSS scanner developed for the VipraTech Labs assignment.
 
